@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>LtoG stable</title>
+  
+  <subtitle>Long-term of Giftooth stable</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://giftooth.github.io/"/>
+  <updated>2018-08-06T10:30:04.953Z</updated>
+  <id>https://giftooth.github.io/</id>
+  
+  <author>
+    <name>Giftooth</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://giftooth.github.io/2018/08/06/hello-world/"/>
+    <id>https://giftooth.github.io/2018/08/06/hello-world/</id>
+    <published>2018-08-06T10:30:04.952Z</published>
+    <updated>2018-08-06T10:30:04.953Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
